@@ -66,8 +66,8 @@ Python-based data extraction tool for retrieving and processing public company i
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nawinpat&show_icons=true&theme=github_dark&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nawinpat&layout=compact&theme=github_dark&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Nawinnapat&show_icons=true&theme=github_dark&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nawinnapat&layout=compact&theme=github_dark&hide_border=true" height="165" />
 </p>
 
 ---
