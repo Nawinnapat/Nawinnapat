@@ -76,7 +76,7 @@ Python-based data extraction tool for retrieving and processing public company i
 
 I'm always interested in learning, building new things, and meeting people who are passionate about software, AI, and technology.
 
-[![GitHub](https://img.shields.io/badge/GitHub-Nawinpat-181717?style=for-the-badge&logo=github)](https://github.com/Nawinnapat)
+[![GitHub](https://img.shields.io/badge/GitHub-Nawinnapat-181717?style=for-the-badge&logo=github)](https://github.com/Nawinnapat)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nawinnapat-thanachothirun-593b08385)
 
 ---
