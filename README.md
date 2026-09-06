@@ -72,6 +72,13 @@ Python-based data extraction tool for retrieving and processing public company i
 
 ---
 
+## 📊 GitHub
+
+![GitHub followers](https://img.shields.io/github/followers/Nawinnapat?style=for-the-badge)
+![GitHub stars](https://img.shields.io/github/stars/Nawinnapat?affiliations=OWNER&style=for-the-badge)
+
+---
+
 ## 🤝 Let's Connect
 
 I'm always interested in learning, building new things, and meeting people who are passionate about software, AI, and technology.
