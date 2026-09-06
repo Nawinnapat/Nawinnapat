@@ -66,14 +66,8 @@ Python-based data extraction tool for retrieving and processing public company i
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Nawinpat&show_icons=true&hide_border=true"
-    height="165"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nawinpat&layout=compact&hide_border=true"
-    height="165"
-  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Nawinpat&show_icons=true&theme=github_dark&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nawinpat&layout=compact&theme=github_dark&hide_border=true" height="165" />
 </p>
 
 ---
@@ -83,7 +77,7 @@ Python-based data extraction tool for retrieving and processing public company i
 I'm always interested in learning, building new things, and meeting people who are passionate about software, AI, and technology.
 
 [![GitHub](https://img.shields.io/badge/GitHub-Nawinpat-181717?style=for-the-badge&logo=github)](https://github.com/Nawinpat)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/nawinnapat-thanachothirun-593b08385)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nawinnapat-thanachothirun-593b08385)
 
 ---
 
