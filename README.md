@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Nawinpat 👋</h1>
+<h1 align="center">Hi, I'm Nawinnapat 👋</h1>
 
 <p align="center">
   Software Engineering Student @ Thammasat University<br>
